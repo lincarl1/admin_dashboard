@@ -1,2 +1,2 @@
-# admin_dashboard
+# Admin Dashboard
 Odin Project - Admin Dashboard
